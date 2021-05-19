@@ -5,6 +5,8 @@ Este notebook presenta un resumen del capítulo 4 de [Learning Spark Lightning-F
 Para descargar y correr primero clonar el repositorio y luego teniendo instalado docker hacer:
 
 
-´´´
+```
 docker run -it --rm -p 8888:8888 -p 4040-4050:4040-4050 -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook
-´´´
+```
+
+
