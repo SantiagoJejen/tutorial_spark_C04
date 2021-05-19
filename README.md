@@ -18,5 +18,5 @@ docker run -it --rm -p 8888:8888 -p 4040-4050:4040-4050 -v "$PWD":/home/jovyan/w
 
 ## Resources
 
-[Video de la Clase](https://www.youtube.com/watch?v=csOF4p2IdKw)
-[Learning Spark Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+- [Video de la Clase](https://www.youtube.com/watch?v=csOF4p2IdKw)
+- [Learning Spark Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
